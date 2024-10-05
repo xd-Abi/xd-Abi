@@ -1,4 +1,6 @@
-## I’m Abi 👋✨
+## I’m Abi 💫
+
+![Cover](./cover.png)
 
 I’m a **software developer** who loves 💗 to **build cool things** and experiment with a variety of **fun technologies**! From developing **games** 🎮 to exploring the wonders of **Web3** 🌐, I’m driven by the joy of **learning, creating, and having fun**. If it’s about making something **fast**, **beautiful**, and **interactive**, count me in! ⚡💻
 
